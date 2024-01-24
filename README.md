@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hi there! 👋 I'm Soludo
 
-<!--
-**Solutech11/Solutech11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer and forex trader with several years of experience. I enjoy building web and mobile applications using various technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Full-Stack Developer for 4 years
+- 📱 Experienced in MongoDB, Express.js, React Native, Node.js, EJS
+- 🌐 Worked on various web and mobile projects
+- 📈 Forex Trader for 2 years
+- ✝️ Christian
+
+## Technologies I Work With
+
+- MongoDB
+- Express.js
+- React Native
+- Node.js
+- EJS
+- Flask
+- React
+- Flutter
+
+## Projects
+
+Here are a few projects I've worked on:
+
+- [Project 1](#) - Description of Project 1
+- [Project 2](#) - Description of Project 2
+- ...
+
+## Personal Qualities
+
+- 🤫 Quiet and friendly
+- 🤝 Reliable collaborator
+
+## Let's Connect!
+
+- LinkedIn: [Soludo](#)
+- Twitter: [@soludo_dev](#)
+- GitHub: [soludo-dev](https://github.com/soludo-dev)
+
+Feel free to reach out! Let's build amazing things together.
