@@ -10,7 +10,7 @@ I'm a passionate full-stack developer and forex trader with several years of exp
 - 📈 Forex Trader for 2 years
 - ✝️ Christian
 
-## Technologies I Work With
+## Technologies I Worked With
 
 - MongoDB
 - Express.js
@@ -25,8 +25,8 @@ I'm a passionate full-stack developer and forex trader with several years of exp
 
 Here are a few projects I've worked on:
 
-- [Project 1](#) - Description of Project 1
-- [Project 2](#) - Description of Project 2
+- [Samzer Electrical](Buzzy) - This is a NEXT JS Website
+- [Buzzy.ng](#) - This is a social media marketing site. Built with MERN stack.
 - ...
 
 ## Personal Qualities
