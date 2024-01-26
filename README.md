@@ -37,7 +37,7 @@ Here are a few projects I've worked on:
 ## Let's Connect!
 
 - LinkedIn: [Soludo](#)
-- Twitter: [@soludo_dev](#)
-- GitHub: [soludo-dev](https://github.com/soludo-dev)
+- X: [@AdigwerexSoludo](https://twitter.com/AdigwerexSoludo)
+- GitHub: [Solutech11](https://github.com/Solutech11)
 
 Feel free to reach out! Let's build amazing things together.
