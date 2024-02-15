@@ -25,8 +25,8 @@ I'm a passionate full-stack developer and forex trader with several years of exp
 
 Here are a few projects I've worked on:
 
-- [Samzer Electrical](Buzzy) - This is a NEXT JS Website
-- [Buzzy.ng](#) - This is a social media marketing site. Built with MERN stack.
+- [Samzer Electrical]([Buzzy](https://samzerelectrical.com)) - This is a NEXT JS Website
+- [Buzzy.ng](https://www.buzzy.ng) - This is a social media marketing site. Built with MERN stack.
 - ...
 
 ## Personal Qualities
