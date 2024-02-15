@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Soludo
+# Hi there! 👋 I'm Solutech
 
 I'm a passionate full-stack developer and forex trader with several years of experience. I enjoy building web and mobile applications using various technologies.
 
