@@ -20,6 +20,7 @@ I'm a passionate full-stack developer and forex trader with several years of exp
 - Flask
 - React
 - Flutter
+- Laravel 
 
 ## Projects
 
