@@ -28,6 +28,7 @@ Here are a few projects I've worked on:
 
 - [Samzer Electrical]([Buzzy](https://samzerelectrical.com)) - This is a NEXT JS Website
 - [Buzzy.ng](https://www.buzzy.ng) - This is a social media marketing site. Built with MERN stack.
+- [PropFizer](https://www.propfizer.com) - This is a propr sales and management website.
 - ...
 
 ## Personal Qualities
