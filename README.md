@@ -7,7 +7,7 @@ I'm a passionate full-stack developer and forex trader with several years of exp
 - 💻 Full-Stack Developer for 6 years
 - 📱 Experienced in MongoDB, Express.js, React Native, Node.js, EJS
 - 🌐 Worked on various web and mobile projects
-- 📈 Forex Trader for 2 years
+- 📈 Forex Trader for 4 years
 - ✝️ Christian
 
 ## Technologies I Worked With
